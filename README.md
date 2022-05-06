@@ -8,8 +8,12 @@ Histogram, Bar plot
 ### Technologies
 Postgres, SQL, SQLAlchemy, Python, Matplotlib
 
-### Featured Notebooks and files
+### Featured Notebooks and Files
+Resources Folder - contains all CSV files utilized for this project. 
 
+Employee SQL Folder - contains Employee ERD, and the SQL files for table schemata & queries. 
+
+Employee.ipynb - Jupyter Notebook
 
 #### Analysis and Obseved Trends
 
