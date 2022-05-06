@@ -13,7 +13,9 @@ Resources Folder - contains all CSV files utilized for this project.
 
 Employee SQL Folder - contains Employee ERD, and the SQL files for table schemata & queries. 
 
-Employee.ipynb - Jupyter Notebook
+Employee.ipynb - Jupyter Notebook containing visualization of two data queries. 
 
-#### Analysis and Obseved Trends
+### Entity Relationship Diagram
+
+![Employee ERD](https://user-images.githubusercontent.com/93561950/167054659-0d19769f-1440-4657-8bd3-1c75c95b9c4c.png)
 
